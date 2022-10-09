@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">cw3</string>
+    <string name="lblText1">Основной экран</string>
+    <string name="btnText1">Тип машины</string>
+    <string name="btnText2">Возраст водителя</string>
+    <string name="btnText3">Аварии</string>
+    <string name="btnText4">Посчитать</string>
+    <string name="lblText2">Кабриолет</string>
+    <string name="lblText3">Пикап</string>
+    <string name="lblText4">Седан</string>
+    <string name="lblText5">Минивен</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sars_sample</string>
+    <string name="txt1">Экран первый</string>
+    <string name="txt2">Экран второй</string>
+    <string name="b1">Перейти на второй экран</string>
+    <string name="b2">Вернуться на первый экран</string>
+</resources>
